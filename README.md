@@ -1,4 +1,4 @@
-### Hi there, I'm Juan! 👋
+### Hi there, I'm Juan! 👋🏽
 
 <img align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=jsuisjuan&theme=default&show_icons=true" />
 <img align="left" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jsuisjuan&layout=compact" />
