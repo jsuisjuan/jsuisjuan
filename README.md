@@ -12,17 +12,8 @@ I thrive on building robust applications, exploring decentralized technologies, 
 ---
 
 ## 🛠️ Skills & Tools
-### Programming Languages
-- **TypeScript**, **JavaScript**, **Solidity**, **Rust**, **Java**, **C++**
-
-### Frameworks & Libraries
-- **Angular**, **React**, **Redux**, **Express**, **Hyperledger Fabric**, **Spring Boot**, **Bootstrap**
-
-### Databases & Cloud
-- **MongoDB**, **PostgreSQL**, **CouchDB**, **IBM Cloud**, **MetaMask**
-
-### Other Tools
-- **Linux**, **Docker**, **Kubernetes**, **Git**, **VSCode**, **Postman**
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jsuisjuan&show_icons=true&theme=transparent)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jsuisjuan&layout=compact&langs_count=9)
 
 ---
 
